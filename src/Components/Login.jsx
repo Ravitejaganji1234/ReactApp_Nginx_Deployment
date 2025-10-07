@@ -130,7 +130,7 @@ const Login = () => {
             </main>
             <div className="welcome-container">
                 <h1 className="heading-secondary">
-                    Welcome <span className="lg">Ravi Teja</span>
+                    Welcome <span className="lg">Ravi</span>
                 </h1>
             </div>
         </div>
